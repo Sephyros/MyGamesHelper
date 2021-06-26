@@ -1,19 +1,19 @@
-<CharacterTemplate Strength="4" Constitution="1" Dexterity="3.5000005" Intelligence="5" Age="30" Name="Sephyros" Gender="2" AppearanceIndex="0" TattooIndex="0" BreastSize="0" PenisSize="1" BirthDate="05.20.1991." ArrestDate="06.24.2021.">
-    <Skill Attribute="3" Name="Boxing" ClassName="BoxingSkill" Level="2" Experience="333.46811"/>
-    <Skill Attribute="3" Name="Rifles" ClassName="RiflesSkill" Level="0" Experience="0"/>
-    <Skill Attribute="3" Name="Melee Weapons" ClassName="MeleeWeaponsSkill" Level="3" Experience="0"/>
-    <Skill Attribute="3" Name="Handgun" ClassName="HandgunSkill" Level="1" Experience="0"/>
-    <Skill Attribute="3" Name="Archery" ClassName="ArcherySkill" Level="0" Experience="0"/>
-    <Skill Attribute="0" Name="Running" ClassName="RunningSkill" Level="1" Experience="50.008297"/>
-    <Skill Attribute="0" Name="Endurance" ClassName="EnduranceSkill" Level="1" Experience="0"/>
-    <Skill Attribute="1" Name="Thievery" ClassName="ThieverySkill" Level="1" Experience="50050.055"/>
-    <Skill Attribute="1" Name="Driving" ClassName="DrivingSkill" Level="1" Experience="0"/>
-    <Skill Attribute="1" Name="Demolition" ClassName="DemolitionSkill" Level="0" Experience="0"/>
-    <Skill Attribute="1" Name="Throwing" ClassName="ThrowingSkill" Level="0" Experience="0"/>
-    <Skill Attribute="1" Name="Stealth" ClassName="StealthSkill" Level="3" Experience="0"/>
-    <Skill Attribute="2" Name="Awareness" ClassName="AwarenessSkill" Level="0" Experience="0"/>
-    <Skill Attribute="2" Name="Sniping" ClassName="SnipingSkill" Level="0" Experience="0"/>
-    <Skill Attribute="2" Name="Camouflage" ClassName="CamouflageSkill" Level="2" Experience="333.46811"/>
-    <Skill Attribute="2" Name="Survival" ClassName="SurvivalSkill" Level="1" Experience="0"/>
-    <Skill Attribute="2" Name="Engineering" ClassName="EngineeringSkill" Level="3" Experience="0"/>
+<CharacterTemplate Strength="5" Constitution="5" Dexterity="5" Intelligence="5" Age="32" Name="Sephyros" Gender="2" AppearanceIndex="0" TattooIndex="0" BreastSize="0" PenisSize="10" BirthDate="03.05.1989." ArrestDate="06.25.2021.">
+    <Skill Attribute="3" Name="Boxing" ClassName="BoxingSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="3" Name="Rifles" ClassName="RiflesSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="3" Name="Melee Weapons" ClassName="MeleeWeaponsSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="3" Name="Handgun" ClassName="HandgunSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="3" Name="Archery" ClassName="ArcherySkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="0" Name="Running" ClassName="RunningSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="0" Name="Endurance" ClassName="EnduranceSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="1" Name="Thievery" ClassName="ThieverySkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="1" Name="Driving" ClassName="DrivingSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="1" Name="Demolition" ClassName="DemolitionSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="1" Name="Throwing" ClassName="ThrowingSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="1" Name="Stealth" ClassName="StealthSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="2" Name="Awareness" ClassName="AwarenessSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="2" Name="Sniping" ClassName="SnipingSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="2" Name="Camouflage" ClassName="CamouflageSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="2" Name="Survival" ClassName="SurvivalSkill" Level="3" Experience="9999999"/>
+    <Skill Attribute="2" Name="Engineering" ClassName="EngineeringSkill" Level="3" Experience="9999999"/>
 </CharacterTemplate>
