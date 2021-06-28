@@ -1,0 +1,16 @@
+{
+    "infoObjects": [
+        {
+            "title": "Calories Intake",
+            "dbName": "_calories",
+            "description": "O valor apresentado é exatamente igual ao do banco de dados.",
+            "lastRead": "2538.6394"
+        },
+        {
+            "title": "Water Intake",
+            "dbName": "_waterIntake",
+            "description": "O valor apresentado é 1000 vezes maior e arredondado para primeira casa decimal.",
+            "lastRead": "5.0273771"
+        }
+    ]
+}

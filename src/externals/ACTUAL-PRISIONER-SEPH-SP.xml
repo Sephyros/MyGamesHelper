@@ -1,0 +1,454 @@
+<Prisoner>
+  <LifeComponent>
+    <Times _lifeTime="18315.904" _RDACheckTime="53445.109" _deathTime="0" _comaTime="0" _comatousTime="0" _comaDeathTime="0" _unconsciousTime="0" _unconsciousnessTime="0" _unconsciousnessDeathTime="0" _hairTime="18315.904" _facialHairTime="18315.904" />
+    <CharacterAttributes _age="32" _strength="5" _constitution="5" _dexterity="5" _intelligence="5" _teethNumber="32" />
+    <AttributeHistoryStrength>
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+    </AttributeHistoryStrength>
+    <AttributeHistoryConstitution>
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+    </AttributeHistoryConstitution>
+    <AttributeHistoryDexterity>
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+    </AttributeHistoryDexterity>
+    <AttributeHistoryIntelligence>
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+      <Attribute _value="5" />
+    </AttributeHistoryIntelligence>
+    <InitialAttributes _initialAge="32" _initialStrength="5" _initialConstitution="5" _initialDexterity="5" _initialIntelligence="5" _originalWeight="100" _initialWeight="100" _originalBFP="0.059999999" _initialBFP="0.059999999" _initialStorageFat="6" _initialBlood="10" _minBlood="5" _maxFoodWeight="4" />
+    <BodyAttributes _weight="100.1151" _BFP="0.10187142" _storageFat="5.1059999" _foodWeight="0" _WLT="90" _bodyTempCategory="0" _bodyTemp="36.699001" _bodyTempIncrease="0" _bodyTempAutoAdjust="0" _load="15" _pulse="60" _breath="12" _blood="10.350965" _systolicBloodPressure="110" _diastolicBloodPressure="70" _oxygenSaturation="1" _ECGRhythm="0" _prisonWallet="true" _prisonWalletMilestone="5" />
+    <Health _consciousness="0" _health="1.2" _damage="0.16592044" _healingSpeed="1" _immunity="1" />
+    <Stamina _stamina="64" _MSI="64" _MSR="0" _lastStamina="64" _minStaminaDown="63.201363" _maxStaminaDown="63.999744" _minStaminaUp="63.990944" _maxStaminaUp="64" />
+    <States _count="2">
+      <State0>0</State0>
+      <State1>4</State1>
+    </States>
+    <DailyIntake _calories="2500" _energyFactor="0" _defecationCapacity="2" _defecationWeight="0" _waterIntake="2" _waterUsage="0.38071775" _waterToAbsorb="0" _bladderWater="0.060101323" _bladderCapacity="1" _urinationNeededTime="0" _dailyCaloriesIntake="2040.3683" _dailyWaterIntake="1.6" _intakeEnergy="2000" _usageEnergy="1912.1692" _metabolicCalories="795.03967" _intakeFat="0.11930553" _intakeSaturatedFat="0.047304712" _intakeSugar="0" _intakeSodium="0.0015" _intakeCarbs="0.55755031" _intakeFiber="0.028000001" _intakeProteins="0.13803259" _intakeAlcohol="0" _dailyFatCalories="500" _dailySugarCalories="500" _dailyCarbsCalories="700" _dailyProteinsCalories="750" _dailyAlcoholCalories="50" _muscleMass="97.50872" _strengthGain="5" _constitutionGain="5" _dexterityGain="1" />
+    <Deficiency _stateEnergy="0" _stateFat="0" _stateSaturatedFat="0" _stateSugar="0" _stateSodium="0" _stateCarbs="0" _stateFiber="0" _stateProteins="0" />
+    <Vitamins _count="13">
+      <Vitamin0 _stateVitamins="1" _intakeVitamins="4">A</Vitamin0>
+      <Vitamin1 _stateVitamins="1" _intakeVitamins="4">B2</Vitamin1>
+      <Vitamin2 _stateVitamins="1" _intakeVitamins="4">B1</Vitamin2>
+      <Vitamin3 _stateVitamins="1" _intakeVitamins="4">B3</Vitamin3>
+      <Vitamin4 _stateVitamins="1" _intakeVitamins="4">B4</Vitamin4>
+      <Vitamin5 _stateVitamins="1" _intakeVitamins="4">B5</Vitamin5>
+      <Vitamin6 _stateVitamins="1" _intakeVitamins="4">B6</Vitamin6>
+      <Vitamin7 _stateVitamins="1" _intakeVitamins="4">B9</Vitamin7>
+      <Vitamin8 _stateVitamins="1" _intakeVitamins="4">B12</Vitamin8>
+      <Vitamin9 _stateVitamins="1" _intakeVitamins="4">C</Vitamin9>
+      <Vitamin10 _stateVitamins="1" _intakeVitamins="4">D</Vitamin10>
+      <Vitamin11 _stateVitamins="1" _intakeVitamins="4">E</Vitamin11>
+      <Vitamin12 _stateVitamins="1" _intakeVitamins="4">K</Vitamin12>
+    </Vitamins>
+    <Minerals _count="9">
+      <Mineral0 _totalMinerals="0" _remainingMinerals="3">Calcium</Mineral0>
+      <Mineral1 _totalMinerals="0" _remainingMinerals="3">Iron</Mineral1>
+      <Mineral2 _totalMinerals="0" _remainingMinerals="3">Magnesium</Mineral2>
+      <Mineral3 _totalMinerals="0" _remainingMinerals="3">Phosphorus</Mineral3>
+      <Mineral4 _totalMinerals="0" _remainingMinerals="3">Potassium</Mineral4>
+      <Mineral5 _totalMinerals="0" _remainingMinerals="3">Zinc</Mineral5>
+      <Mineral6 _totalMinerals="0" _remainingMinerals="3">Copper</Mineral6>
+      <Mineral7 _totalMinerals="0" _remainingMinerals="3">Manganese</Mineral7>
+      <Mineral8 _totalMinerals="0" _remainingMinerals="3">Selenium</Mineral8>
+    </Minerals>
+    <Sicknesses _count="1" _nextSicknessID="2">
+      <Sickness0 _state="2" _activationTime="0" _duration="883.74951" _sicknessDay="0" _phase="2" _recovery="13226.324" _recoveryDay="0" _recoverySpeed="2.3148148e-05" _recoveryRate="1" _recoveryDays="43200" _recoveryDaysUntreated="0" _sicknessID="1" _ownerID="0" _bleedingType="2" _fastDamageRecovery="0" _slowDamageRecovery="0.60830414">
+        PhysicalInjury
+        <DeliriumChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+        <SeizuresChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+        <HeadacheChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+        <HairLossChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+        <BlurredVisionChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+        <HallucinationsChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+        <DizzinessChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+        <UnconsciousnessChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+        <HeartAttackChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+        <DeathChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+        <BodyParts _count="12">
+          <BodyPart0 _bleedingType="0" _damage="0" />
+          <BodyPart1 _bleedingType="2" _damage="0.25473806" />
+          <BodyPart2 _bleedingType="0" _damage="0" />
+          <BodyPart3 _bleedingType="0" _damage="0" />
+          <BodyPart4 _bleedingType="0" _damage="0" />
+          <BodyPart5 _bleedingType="0" _damage="0" />
+          <BodyPart6 _bleedingType="0" _damage="0" />
+          <BodyPart7 _bleedingType="0" _damage="0" />
+          <BodyPart8 _bleedingType="0" _damage="0" />
+          <BodyPart9 _bleedingType="0" _damage="0" />
+          <BodyPart10 _bleedingType="0" _damage="0" />
+          <BodyPart11 _bleedingType="0" _damage="0" />
+        </BodyParts>
+      </Sickness0>
+    </Sicknesses>
+    <SeizuresChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+    <NoseBleedingChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+    <TeethLossChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+    <HeartAttackChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+    <ECGRhythmAGChance _interval="0" _cumulativeChance="0" _currentChance="0" _currentChanceTime="0" _startChanceTime="0" _nextChanceTime="0" />
+    <Modifiers _caloriesUsageSpeed="0.79999995" _eatingSpeed="5" _viewRange="5" _hearingRange="2" _wltModifier="1.5" _performanceFailure="0" _drunkenness="0" _reactionSpeed="2" _foodUsageEfficiency="5" _hungerCalories="1" _pulseRate="0" _SCRPenalty="0.5" _WCRPenalty="0.5" _strengthRate="2" _constitutionRate="2" _dexterityRate="2" _intelligenceRate="2" _SCRPenaltyRate="0.5" _WCRPenaltyRate="0.5" _maxStrengthRate="2" _maxDexterityRate="2" />
+    <SkillModifiers _SCM="0" _speedModifier="1" _WCRModifier="0.69999993" _caloriesBurntModifier="0.69999993" _holdingBreathModifier="1" _healingSpeedModifier="1" _healthPointsModifier="1" _resistPoisonsModifier="0" _freeFallModifier="2" />
+  </LifeComponent>
+  <InventoryComponent>
+    <Item _asset="/Game/ConZ_Files/Items/Clothes/Tops_And_T_Shirts/Military_Shirt_01.Military_Shirt_01_C" _damage="0.071236372" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624792210" _isPartOfEvent="false" _itemUniqueId="81C9E0D1450280699D94439E7126D0B6" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" IsEquipped="false" _dirtiness="0.0068928818" _isPatched="false">
+      Military_Shirt_01_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="0" />
+      </Inventory>
+    </Item>
+    <Item _asset="/Game/ConZ_Files/Items/Temporary_Delete_Later/Zombie_Tracksuit_Top_01_03.Zombie_Tracksuit_Top_01_03_C" _damage="0.070370734" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624759776" _isPartOfEvent="false" _itemUniqueId="1179E2804ED74467DE9CE8AD5535042D" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" IsEquipped="false" _dirtiness="0.0068928818" _isPatched="false">
+      Zombie_Tracksuit_Top_01_03_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="0" />
+      </Inventory>
+    </Item>
+    <Item _asset="/Game/ConZ_Files/Items/Clothes/Jackets_Coats/Jeans_Jersey_Jacket_02.Jeans_Jersey_Jacket_02_C" _damage="0.072973847" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624791961" _isPartOfEvent="false" _itemUniqueId="6D7AE4E04AB19D0D9F2EFF9CC0909E69" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" IsEquipped="false" _dirtiness="0.0068928818" _isPatched="false">
+      Jeans_Jersey_Jacket_02_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="5">
+          <InventorySlot0 _column="3" _row="2" _rotation="0" _asset="/Game/ConZ_Files/Items/Equipment/Active_Items/Wire_Cutters_01.Wire_Cutters_01_C" _damage="0.00083357096" _maxHealth="100" Weight="350" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624753090" _isPartOfEvent="false" _itemUniqueId="093E5F0B4CF2F10EAC7ADEAC5823813A" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="0">
+            Wire_Cutters_01_C
+            <Stacks />
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+          </InventorySlot0>
+          <InventorySlot1 _column="0" _row="2" _rotation="0" _asset="/Game/ConZ_Files/Items/Weapons/New_Melee/1H_Brass_knuckles.1H_Brass_knuckles_C" _damage="0.0029174685" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624757098" _isPartOfEvent="false" _itemUniqueId="14B78E3F46437E93A0852D868E4E050A" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="4">
+            1H_Brass_knuckles_C
+            <Stacks />
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+          </InventorySlot1>
+          <InventorySlot2 _column="4" _row="0" _rotation="0" _asset="/Game/ConZ_Files/Items/Equipment/Active_Items/Scissors_Plastic.Scissors_Plastic_C" _damage="0" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624753849" _isPartOfEvent="false" _itemUniqueId="AEEF03604BEBC0A62326728CEE724C48" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1">
+            Scissors_Plastic_C
+            <Stacks />
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+          </InventorySlot2>
+          <InventorySlot3 _column="2" _row="0" _rotation="0" _asset="/Game/ConZ_Files/Items/Equipment/Active_Items/Rags.Rags_C" _damage="0.60080314" _maxHealth="100" Weight="100" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624570927" _isPartOfEvent="false" _itemUniqueId="344AC4FB437B55C403B7E3BA42D0B459" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1">
+            Rags_C
+            <Stacks />
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+          </InventorySlot3>
+          <InventorySlot4 _column="0" _row="0" _rotation="0" _asset="/Game/ConZ_Files/Items/Equipment/Active_Items/Rags.Rags_C" _damage="0.43785053" _maxHealth="100" Weight="100" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624535675" _isPartOfEvent="false" _itemUniqueId="B4B8137844214B17468D02B57E714650" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1">
+            Rags_C
+            <Stacks />
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+          </InventorySlot4>
+        </InventorySlots>
+      </Inventory>
+    </Item>
+    <Item _asset="/Game/ConZ_Files/Items/Temporary_Delete_Later/Zombie_MilitaryPants_04.Zombie_MilitaryPants_04_C" _damage="0.0069292188" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624792103" _isPartOfEvent="false" _itemUniqueId="12E3688E4FF05A5F78F5319B59267F8E" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" IsEquipped="false" _dirtiness="0.013785764" _isPatched="false">
+      Zombie_MilitaryPants_04_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="0" />
+      </Inventory>
+    </Item>
+    <Item _asset="/Game/ConZ_Files/Items/Clothes/Footwear/Socks.Socks_C" _damage="0.076555073" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624790924" _isPartOfEvent="false" _itemUniqueId="BE81573A49B3248BDA10D588D4BC9A2C" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" IsEquipped="false" _dirtiness="0.029401798" _isPatched="false">
+      Socks_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="0" />
+      </Inventory>
+    </Item>
+    <Item _asset="/Game/ConZ_Files/Items/Clothes/Footwear/MilitaryBoots_JNA.MilitaryBoots_JNA_C" _damage="0.0052035451" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624792101" _isPartOfEvent="false" _itemUniqueId="171024574245F6DBC322AFB7399AE1E2" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" IsEquipped="false" _dirtiness="0.027571527" _isPatched="false">
+      MilitaryBoots_JNA_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="1">
+          <InventorySlot0 _column="2" _row="0" _rotation="0" _asset="/Game/ConZ_Files/Items/Equipment/Active_Items/Bobby_Pin_Pacage.Bobby_Pin_Pacage_C" _damage="0.0029310584" _maxHealth="100" Weight="50" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624755913" _isPartOfEvent="false" _itemUniqueId="C3153B794E402078ACBF55B254A972AD" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1">
+            Bobby_Pin_Pacage_C
+            <Stacks />
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+          </InventorySlot0>
+        </InventorySlots>
+      </Inventory>
+    </Item>
+    <Item _asset="/Game/ConZ_Files/Items/Clothes/Backpacks_Bags/Militry_Quiver.Militry_Quiver_C" _damage="0.01213491" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624792861" _isPartOfEvent="false" _itemUniqueId="0E333DF043AAB07F18B9C193A9FDFF90" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" IsEquipped="false" _dirtiness="0.0068928818" _isPatched="false">
+      Militry_Quiver_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="0" />
+      </Inventory>
+    </Item>
+    <Item _asset="/Game/ConZ_Files/Items/Clothes/Backpacks_Bags/Hiking_Backpack_03.Hiking_Backpack_03_C" _damage="0.012057722" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624792840" _isPartOfEvent="false" _itemUniqueId="3F28E74240403676CBCD888872753402" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" IsEquipped="false" _dirtiness="0.0068928818" _isPatched="false">
+      Hiking_Backpack_03_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="0" />
+      </Inventory>
+    </Item>
+    <Item _asset="/Game/ConZ_Files/Items/Equipment/Active_Items/15_Teeth_Necklace.15_Teeth_Necklace_C" _damage="0.0052047968" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="2.2115376" _lastAccessTime="1624758436" _isPartOfEvent="false" _itemUniqueId="5DB4940B477BADDE7E5B429CBD07C5EE" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" IsEquipped="false" _dirtiness="0.0017232205" _isPatched="false">
+      15_Teeth_Necklace_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="0" />
+      </Inventory>
+    </Item>
+    <Item _asset="/Game/ConZ_Files/Items/Temporary_Delete_Later/Zombie_Waist_Bag_Small_01.Zombie_Waist_Bag_Small_01_C" _damage="0.070272267" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624792772" _isPartOfEvent="false" _itemUniqueId="1E25D78944658F07B533B3961D206D99" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" IsEquipped="false" _dirtiness="0.0068928818" _isPatched="false">
+      Zombie_Waist_Bag_Small_01_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="2">
+          <InventorySlot0 _column="4" _row="2" _rotation="0" _asset="/Game/ConZ_Files/Items/Ammunition/Cal_7_62x54mmR_AP.Cal_7_62x54mmR_AP_C" _damage="0.0029310584" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624749787" _isPartOfEvent="false" _itemUniqueId="C30AFC7D49F8D74F85BEC2AC9B2FAE31" WaterWeight="0" StacksCount="20" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" _ammoCount="20">
+            Cal_7_62x54mmR_AP_C
+            <Stacks />
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+          </InventorySlot0>
+          <InventorySlot1 _column="2" _row="2" _rotation="0" _asset="/Game/ConZ_Files/Items/Ammunition/Cal_45.Cal_45_C" _damage="0.0029310584" _maxHealth="100" Weight="15" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624749795" _isPartOfEvent="false" _itemUniqueId="0259883E450F149EE2FF4F98CB27DE71" WaterWeight="0" StacksCount="50" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" _ammoCount="50">
+            Cal_45_C
+            <Stacks />
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+          </InventorySlot1>
+        </InventorySlots>
+      </Inventory>
+    </Item>
+    <Item _asset="/Game/ConZ_Files/Items/Clothes/Weapon_Holster/BPC_Tactical_Handgun_Holster_03.BPC_Tactical_Handgun_Holster_03_C" _damage="0.072121263" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624790467" _isPartOfEvent="false" _itemUniqueId="357D89524EA88E5A56444085845B4841" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" IsEquipped="false" _dirtiness="0.0068928818" _isPatched="false">
+      BPC_Tactical_Handgun_Holster_03_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="1">
+          <InventorySlot0 _column="0" _row="0" _rotation="0" _asset="/Game/ConZ_Files/Items/Weapons/Ranged_Weapons/BPC_Weapon_M1911.BPC_Weapon_M1911_C" _damage="0.018917263" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624576550" _isPartOfEvent="false" _itemUniqueId="61BFBFCC455018EBB4F2B896AE110879" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="3" ZeroRange="50" _firingMode="1" _malfunction="0" _loadedAmmunitionItemClass="/Game/ConZ_Files/Items/Ammunition/Cal_45.Cal_45_C">
+            BPC_Weapon_M1911_C
+            <Stacks />
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+            <LoadedAmmunition />
+            <InternalMagazine />
+            <WeaponAttachments>
+              <Attachment _asset="/Game/ConZ_Files/Items/Weapons/Weapon_Clips/BP_Magazine_M1911.BP_Magazine_M1911_C" _damage="0.0029174685" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624577355" _isPartOfEvent="false" _itemUniqueId="C010A3B44AE38626ECEE7EA12E838C14" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1">
+                BP_Magazine_M1911_C
+                <Stacks />
+                <Inventory Version="1">
+                  <InventorySlots _count="0" />
+                </Inventory>
+                <Ammunition />
+              </Attachment>
+            </WeaponAttachments>
+          </InventorySlot0>
+        </InventorySlots>
+      </Inventory>
+    </Item>
+    <Item _asset="/Game/ConZ_Files/Items/Clothes/Vests_Armor/Armor_Tactical_Vest_05.Armor_Tactical_Vest_05_C" _damage="0.018926859" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624792866" _isPartOfEvent="false" _itemUniqueId="5325572A4D7E76F435C2A79D38DDC98F" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1" IsEquipped="false" _dirtiness="0.0068928818" _isPatched="false">
+      Armor_Tactical_Vest_05_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="4">
+          <InventorySlot0 _column="6" _row="2" _rotation="0" _asset="/Game/ConZ_Files/Items/Fortifications/Screwdriver.Screwdriver_C" _damage="0.0029310584" _maxHealth="100" Weight="150" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624567832" _isPartOfEvent="false" _itemUniqueId="33B6F8F5487FF6F23F7A718990013BDC" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1">
+            Screwdriver_C
+            <Stacks />
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+          </InventorySlot0>
+          <InventorySlot1 _column="6" _row="0" _rotation="0" _asset="/Game/ConZ_Files/Items/Equipment/Active_Items/Rag_Stripes.Rag_Stripes_C" _damage="0.028913856" _maxHealth="100" Weight="50" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624569462" _isPartOfEvent="false" _itemUniqueId="2F251BA147352CE1971089A6CC2E7F77" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1">
+            Rag_Stripes_C
+            <Stacks />
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+          </InventorySlot1>
+          <InventorySlot2 _column="4" _row="2" _rotation="0" _asset="/Game/ConZ_Files/Items/Equipment/Bolts.Bolts_C" _damage="0.8649568" _maxHealth="50" Weight="50" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624755862" _isPartOfEvent="false" _itemUniqueId="67C3CCE3423C45AC03E05BBDB1E25434" WaterWeight="0" StacksCount="4" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1">
+            Bolts_C
+            <Stacks>
+              <StackElement Count="0" MaxCount="0" Weight="50">
+                <Data _weightUsed="0" _isCrafted="" _uncraftTime="0" _isBusy="" _examined="" _isPartOfEvent="" _expirationTime="k??a0" _blinkOnSpawn="" _health="100" _maxHealth="0" _waterWeight="0" />
+              </StackElement>
+              <StackElement Count="0" MaxCount="0" Weight="50">
+                <Data _weightUsed="0" _isCrafted="" _uncraftTime="0" _isBusy="" _examined="" _isPartOfEvent="" _expirationTime="???a0" _blinkOnSpawn="" _health="100" _maxHealth="0" _waterWeight="0" />
+              </StackElement>
+              <StackElement Count="0" MaxCount="0" Weight="50">
+                <Data _weightUsed="0" _isCrafted="" _uncraftTime="0" _isBusy="" _examined="" _isPartOfEvent="" _expirationTime="?[?a0" _blinkOnSpawn="" _health="100" _maxHealth="0" _waterWeight="0" />
+              </StackElement>
+            </Stacks>
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+          </InventorySlot2>
+          <InventorySlot3 _column="4" _row="0" _rotation="0" _asset="/Game/ConZ_Files/Items/Equipment/Active_Items/Improvised_rope.Improvised_rope_C" _damage="0.18000001" _maxHealth="100" Weight="800" _weightUsed="720" _isCrafted="true" _uncraftTime="4.4238248" _lastAccessTime="1624567846" _isPartOfEvent="false" _itemUniqueId="9DAA9A4F45DF6211B0B2EFA52D7D74FE" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="None" QuickAccessBarIndex="-1">
+            Improvised_rope_C
+            <CraftingParts>
+              <CraftingPart ItemClass="/Game/ConZ_Files/Items/Temporary_Delete_Later/Rag_Stripes_Dirty.Rag_Stripes_Dirty_C" Damage="0.050000012" MaxHealth="100" Weight="50" WeightUsed="0" UncraftHere="false" UsedCount="1" />
+              <CraftingPart ItemClass="/Game/ConZ_Files/Items/Temporary_Delete_Later/Rag_Stripes_Dirty.Rag_Stripes_Dirty_C" Damage="0.39848465" MaxHealth="100" Weight="50" WeightUsed="0" UncraftHere="false" UsedCount="1" />
+              <CraftingPart ItemClass="/Game/ConZ_Files/Items/Temporary_Delete_Later/Rag_Stripes_Dirty.Rag_Stripes_Dirty_C" Damage="0.52053928" MaxHealth="100" Weight="50" WeightUsed="0" UncraftHere="false" UsedCount="1" />
+              <CraftingPart ItemClass="/Game/ConZ_Files/Items/Temporary_Delete_Later/Rag_Stripes_Dirty.Rag_Stripes_Dirty_C" Damage="0.50535774" MaxHealth="100" Weight="50" WeightUsed="0" UncraftHere="false" UsedCount="1" />
+              <CraftingPart ItemClass="/Game/ConZ_Files/Items/Temporary_Delete_Later/Rag_Stripes_Dirty.Rag_Stripes_Dirty_C" Damage="0.76671445" MaxHealth="100" Weight="50" WeightUsed="0" UncraftHere="false" UsedCount="1" />
+            </CraftingParts>
+            <Stacks />
+            <Inventory Version="1">
+              <InventorySlots _count="0" />
+            </Inventory>
+          </InventorySlot3>
+        </InventorySlots>
+      </Inventory>
+    </Item>
+    <QuickAccess QuickAccessSlotIndex="3" QuickAccessSlotInThrowingMode="false" />
+    <QuickAccess QuickAccessSlotIndex="0" QuickAccessSlotInThrowingMode="false" />
+    <QuickAccess QuickAccessSlotIndex="4" QuickAccessSlotInThrowingMode="false" />
+  </InventoryComponent>
+  <AttachedItems>
+    <Item _asset="/Game/ConZ_Files/Items/Weapons/Ranged_Weapons/BP_Weapon_MosinNagant.BP_Weapon_MosinNagant_C" _damage="0.0029174685" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="false" _uncraftTime="0" _lastAccessTime="1624759057" _isPartOfEvent="false" _itemUniqueId="ABDD4C3C4B4A1D9AC4C1A387084DEEDE" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="LeftShoulder" QuickAccessBarIndex="-1" ZeroRange="100" _firingMode="1" _malfunction="0" _loadedAmmunitionItemClass="/Game/ConZ_Files/Items/Ammunition/Cal_7_62x54mmR_AP.Cal_7_62x54mmR_AP_C">
+      BP_Weapon_MosinNagant_C
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="0" />
+      </Inventory>
+      <LoadedAmmunition>
+        <Cartridge AmmunitionItemClass="Item:Cal_7_62x54mmR_AP" Health="100" MaxHealth="100" DefaultMaxHealth="100" />
+      </LoadedAmmunition>
+      <InternalMagazine>
+        <Cartridge AmmunitionItemClass="Item:Cal_7_62x54mmR_AP" Health="100" DefaultMaxHealth="100" />
+        <Cartridge AmmunitionItemClass="Item:Cal_7_62x54mmR_AP" Health="100" DefaultMaxHealth="100" />
+        <Cartridge AmmunitionItemClass="Item:Cal_7_62x54mmR_AP" Health="100" DefaultMaxHealth="100" />
+        <Cartridge AmmunitionItemClass="Item:Cal_7_62x54mmR_AP" Health="100" DefaultMaxHealth="100" />
+      </InternalMagazine>
+      <WeaponAttachments />
+    </Item>
+    <Item _asset="/Game/ConZ_Files/Items/Weapons/New_Melee/2H_Metal_Axe.2H_Metal_Axe_C" _damage="0.0029310584" _maxHealth="100" Weight="0" _weightUsed="0" _isCrafted="true" _uncraftTime="6.6585751" _lastAccessTime="1624759588" _isPartOfEvent="false" _itemUniqueId="4A4AF5454DE18E08563CC68A320A116E" WaterWeight="0" StacksCount="1" IsInHands="false" HolsterSide="RightShoulder" QuickAccessBarIndex="-1">
+      2H_Metal_Axe_C
+      <CraftingParts>
+        <CraftingPart ItemClass="/Game/ConZ_Files/Items/Equipment/Active_Items/Long_wooden_stick.Long_wooden_stick_C" Damage="0" MaxHealth="100" Weight="0" WeightUsed="0" UncraftHere="false" UsedCount="0" />
+        <CraftingPart ItemClass="/Game/ConZ_Files/Items/Temporary_Delete_Later/Rags_Dirty.Rags_Dirty_C" Damage="0" MaxHealth="100" Weight="0" WeightUsed="0" UncraftHere="false" UsedCount="0" />
+      </CraftingParts>
+      <Stacks />
+      <Inventory Version="1">
+        <InventorySlots _count="0" />
+      </Inventory>
+    </Item>
+  </AttachedItems>
+</Prisoner>

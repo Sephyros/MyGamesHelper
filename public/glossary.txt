@@ -1,0 +1,22 @@
+MAXIMUM STAMINA (MSI)
+MSI represents initial Maximum Stamina value calculated from the attributes and skills.
+
+CURRENT STAMINA (CS)
+CS is what title says, current value of stamina. It fluctuates up or down depending on the actions that you do.
+
+STAMINA DURATION MAXIMUM (MS)
+MS is maximum value of Stamina. The initial value is determined by Constitution attribute value. MS value can be temporarily reduced if you have health issues or nutritional deficiencies. Once you get back in shape MS value will increase until it gets closer to the initial value (MSI).
+
+STAMINA CHANGE RATE SCR
+Is represented with SU/s, is linear velocity with two different vectors. Depending on what you do it can consumes or recovers Stamina at the certain pace.
+Several factors influence how fast Stamina will discharge or recharge:
+- Weight load threshold (determined by Strength attribute)
+People who carry more than they should will get tired faster - How difficult/hard is to perform certain action (there are high demanding and less demanding actions) - If you have Endurance skill or not (Endurance improves performance) - Drugs - Health condition – convicts with injuries will have their Stamina amount temporarily reduced until they heal up
+
+Weight Load Threshold (WLT)
+WLT defines the limit where excessive load starts to wear out the body faster than normal. WLT is a dynamic value and is calculated from Strength Attribute. If Strength Attribute drops because of illness, or because of nutritional deficiencies, WLT will drop at the same rate (percentage).
+
+EXAMPLE OF HOW STAMINA/WLT WORK
+Let’s say you carry 10 kg of gear more than your WLT allows. Your Stamina has reached its limits and is now in Reserve zone. If you keep going (obviously running and even jogging isn’t possible, but you can still walk), Strength will drop by 5% in the next 10 seconds. This will result in a 5% reduction in WLT. When rested, an average convict can carry 20 kg of gear without penalties, but with Strength reduced by 5%, you are able to carry only 19kg of weight without penalties. This means that now, with a lower WLT, you actually carry 11kg of weight above the WLT. As a result, yours body will consume additional 220mL of water per hour and will recover at a much slower pace. This 1kg of weight will consume additional 0.05 Stamina Units per second. Eventually, you will have to stop and rest and preferably drop excessive load to the ground.
+
+© 2010-2018 GAMEPIRES ALL RIGHTS RESERVED
